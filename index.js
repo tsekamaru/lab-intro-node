@@ -37,5 +37,3 @@ class SortedList {
 }
 
 module.exports = SortedList;
-
-// console.log([6, 8, 2, 5].sort((a, b) => a - b));
